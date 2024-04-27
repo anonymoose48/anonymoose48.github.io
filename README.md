@@ -1,10 +1,7 @@
 # Joel Shaffer's Skills and Certifications
 
 ## Certifications:
-- Microsoft MS-900
-- Microsoft AZ-900
-- CompTIA Network+
-- CompTIA Security+ SY0-701
+- Microsoft MS-900 - Microsoft AZ-900 - CompTIA Network+ - CompTIA Security+ SY0-701
 
 ## Skills
 
