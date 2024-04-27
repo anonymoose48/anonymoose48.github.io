@@ -23,8 +23,20 @@
 - Microsoft SQL Server Basics
 
 ### Technical Proficiencies:
-- :computer:Active Directory Management - 💻 PowerShell - :chart_with_upwards_trend: ConnectWise PSA - ☁️ Microsoft Azure - 📡 Wireshark - 🐧 Linux Distributions
-- 🌐 Enterprise Networks -📧 Microsoft 365 Administration - 🛡️ Microsoft Hyper-V - :mag: Splunk - 📶 Nmap - 🐉 Snort - 🕵️‍♂️ Burp Suite - 📡 Cisco Packet Tracer
+- :computer:Active Directory Management
+- 💻 PowerShell
+- :chart_with_upwards_trend: ConnectWise PSA
+- ☁️ Microsoft Azure
+- 📡 Wireshark
+- 🐧 Linux Distributions
+- 🌐 Enterprise Networks
+-📧 Microsoft 365 Administration
+- 🛡️ Microsoft Hyper-V
+- :mag: Splunk
+- 📶 Nmap
+- 🐉 Snort
+- 🕵️‍♂️ Burp Suite
+- 📡 Cisco Packet Tracer
 - 🐍 Python
   
 
