@@ -43,26 +43,14 @@
 ## Projects
 
 ### Security Monitoring Dashboard:
-- Build a security monitoring dashboard using open-source tools like Elasticsearch, Logstash, and Kibana (ELK stack).
-- Collect and visualize logs from cloud services, servers, and applications to identify security incidents.
-- Implement alerting mechanisms for detecting suspicious activities or anomalies.
+- 
 
 ### Cloud-native Application Development:
-- Develop a cloud-native application using serverless computing platforms like AWS Lambda, Azure Functions, or Google Cloud Functions.
-- Integrate cloud-native services like AWS DynamoDB, Azure Cosmos DB, or Google Cloud Firestore for data storage.
-- Implement authentication and authorization using cloud identity services like AWS Cognito or Azure Active Directory.
-
+-
 ### Security Compliance Automation:
-- Automate security compliance checks using tools like AWS Config, Azure Policy, or Google Cloud Security Command Center.
-- Define compliance rules and policies based on industry standards (e.g., CIS benchmarks, GDPR requirements).
-- Generate compliance reports and remediate non-compliant resources automatically.
+- 
 
 ### Cloud Backup and Recovery Solution:
-- Design and implement a cloud-based backup and recovery solution for personal data or files.
-- Use cloud storage services like AWS S3 Glacier, Azure Backup, or Google Cloud Storage Nearline for long-term data retention.
-- Set up backup schedules, retention policies, and data encryption mechanisms.
-
+- 
 ### Cloud Cost Optimization Analysis:
-- Analyze cloud usage and spending using cost management tools provided by cloud providers.
-- Identify cost optimization opportunities by rightsizing instances, leveraging reserved instances, or optimizing storage usage.
-- Develop recommendations and strategies for reducing cloud costs while maintaining performance and availability.
+-
